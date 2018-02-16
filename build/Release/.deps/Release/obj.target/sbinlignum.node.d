@@ -1,0 +1,1 @@
+cmd_Release/obj.target/sbinlignum.node := g++ -shared -pthread -rdynamic -m64  -Wl,-soname=sbinlignum.node -o Release/obj.target/sbinlignum.node -Wl,--start-group Release/obj.target/sbinlignum/main.o Release/obj.target/sbinlignum/include/bst.o -Wl,--end-group 
