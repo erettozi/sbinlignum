@@ -1,5 +1,5 @@
 # sbinlignum
-Binary Search Tree ibrary for Node.js. Written in [C/C++ Addons](https://nodejs.org/api/addons.html)
+Binary Search Tree library for Node.js. Written in [C/C++ Addons](https://nodejs.org/api/addons.html)
 
 ``` js
   const BST = new (require('sbinlignum')).BST();
